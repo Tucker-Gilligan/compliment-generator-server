@@ -1,0 +1,22 @@
+INSERT INTO compliments(content)
+VALUES
+('You are awesome!'),
+('You are amazing!'),
+('I hope you have the best day!'),
+('You have the best smile!'),
+('Nice butt! Have you been working out?'),
+('You have impeccable manners!'),
+('You have got all the right moves!'),
+('Your positivity is infectious!'),
+('You are an incredible friend!'),
+('Thanks for being you!'),
+('Being around you makes everything better!'),
+('You are so strong!'),
+('You are beautiful inside and out!'),
+('Your heart must be 10 times the average size!'),
+('You are so down to earth!'),
+('You are so unique!'),
+('How did you learn to be so great?'),
+('Never stop being you!'),
+('You continue to impress me!'),
+('Your potential is limitless!');
