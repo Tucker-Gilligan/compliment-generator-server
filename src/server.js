@@ -2,23 +2,15 @@ const app = require('./app');
 const knex = require('knex');
 const { PORT, DATABASE_URL } = require('./config');
 require('dotenv').config();
-const { Client } = require('pg');
-// const pg = require('pg');
+const pg = require('pg');
 
 pg.defaults.ssl =
   process.env.NODE_ENV === 'production' ? { rejectUnauthorized: false } : false;
 
 //assign a variable to represent database connection
-// const db = knex({
-//   client: 'pg',
-//   connection: DATABASE_URL,
-//   ssl: {
-//     rejectUnauthorized: false,
-//   },
-// });
-
-const client = new Client({
-  connectionString: process.env.DATABASE_URL,
+const db = knex({
+  client: 'pg',
+  connection: DATABASE_URL,
   ssl: {
     rejectUnauthorized: false,
   },

@@ -1,7 +1,7 @@
 {
-  "name": "complimented",
+  "name": "compliment-generator-api",
   "version": "1.0.0",
-  "description": "Server for compliment generator client",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
@@ -26,11 +26,10 @@
     "express": "^4.17.1",
     "helmet": "^4.3.1",
     "knex": "^0.21.16",
-    "migrate": "^1.7.0",
     "morgan": "^1.10.0",
     "pg": "^7.18.2",
     "postgrator-cli": "^3.2.0",
-    "winston": "^3.3.3",
+    "uuid": "^8.3.2",
     "xss": "^1.0.8"
   },
   "devDependencies": {
