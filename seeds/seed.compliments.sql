@@ -19,4 +19,22 @@ VALUES
 ('How did you learn to be so great?'),
 ('Never stop being you!'),
 ('You continue to impress me!'),
-('Your potential is limitless!');
+('You''re great at figuring things out'),
+('You have a good head on your shoulders'),
+('You''re a great example to others').
+('If you were president, you''d be Baberaham Lincoln.'),
+('Your potential is limitless!'),
+('You''re a smart cookie.'),
+('Thank you.'),
+('You look great today!'),
+('You have great posture.'),
+('Your eyes are breathtaking.'),
+('You have nice elbows.'),
+('You are the most perfect you there is.'),
+('On a scale from 1 to 10, you''re an 11.'),
+('You are one of a kind'),
+('You are really something special'),
+('You raise the bar.'),
+('You walk the walk.'),
+('You have a heart of gold.'),
+('There''s ordinary, and then there''s you');
