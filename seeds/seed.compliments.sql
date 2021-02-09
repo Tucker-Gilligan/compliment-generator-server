@@ -21,7 +21,7 @@ VALUES
 ('You continue to impress me!'),
 ('You''re great at figuring things out'),
 ('You have a good head on your shoulders'),
-('You''re a great example to others').
+('You''re a great example to others'),
 ('If you were president, you''d be Baberaham Lincoln.'),
 ('Your potential is limitless!'),
 ('You''re a smart cookie.'),
