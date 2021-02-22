@@ -4,7 +4,7 @@ VALUES
 ('You are amazing!'),
 ('I hope you have the best day!'),
 ('You have the best smile!'),
-('Nice butt! Have you been working out?'),
+('Have you been working out?'),
 ('You have impeccable manners!'),
 ('You have got all the right moves!'),
 ('Your positivity is infectious!'),
