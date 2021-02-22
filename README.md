@@ -1,2 +1,2 @@
-# Server for Complimented client-side application!
+# Server for Complimented application!
 ## Endpoint specs coming soon:)
